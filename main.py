@@ -6,9 +6,7 @@ import time
 import threading
 import logging
 from PIL import Image, ImageDraw, ImageFont
-from flask import Flask, request
-from flask_mail import Mail, Message
-from waveshare_epd import epd7in5_V2
+from waveshare_epd import epd2in13_V2
 import textwrap
 import traceback
 
