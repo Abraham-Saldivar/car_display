@@ -1,6 +1,6 @@
 from PIL import Image, ImageDraw, ImageFont
 import textwrap
-from waveshare_epd import epd2in13_V2  # Update to the correct driver
+from waveshare_epd import epd2in13_V2
 import time
 import os
 
